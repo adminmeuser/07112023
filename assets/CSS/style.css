@@ -1,0 +1,55 @@
+.bx-main{
+    width: 600px;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+   
+    
+}
+
+.bx-sec1 {
+    
+    width: 50%;
+    height: 450px;
+    background-image: url(./Images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+}
+
+.bx-sec1__txt {
+    width: 270px;
+    height: 30px;
+    margin-left: 10px;
+    
+}
+
+.bx-sec1__btn {
+  margin-left: 30px;
+  cursor: pointer;
+  width: 100px;
+  height: 30px;
+  background-color: burlywood;
+ 
+}
+.bx-sec1__btn:hover{
+    background-color: slateblue;
+    color: white;
+}
+
+.bx-sec2{
+  
+    width: 50%;
+    height: 450px;  
+    margin-left: 20px;
+    background-image: url(./Images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+}
+p  {
+    color: black;
+    text-align: center;
+   
+}
